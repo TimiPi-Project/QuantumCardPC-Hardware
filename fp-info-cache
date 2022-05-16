@@ -1,4 +1,4 @@
-20122671277059916
+20183533786885755
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -314,41 +314,6 @@ battery CR-3032 coin cell vertical
 0
 2
 2
-Brand Manual on Behance
-DPAK
-
-
-0
-7
-3
-Brand Manual on Behance
-IPEX_20455-030E-76
-
-
-0
-34
-34
-Brand Manual on Behance
-MOLEX_47272-0001
-
-
-0
-24
-24
-Brand Manual on Behance
-NINIGI_DC-005
-
-
-0
-3
-3
-Brand Manual on Behance
-TTRN-060S
-
-
-0
-5
-5
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -1461,21 +1426,21 @@ Surface Mount Tactile Switch for High-Density Mounting, 3.1mm height, https://om
 Tactile Switch
 0
 4
-4
+2
 Button_Switch_SMD
 SW_SPST_Omron_B3FS-101xP
 Surface Mount Tactile Switch for High-Density Mounting, 4.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
 Tactile Switch
 0
 4
-4
+2
 Button_Switch_SMD
 SW_SPST_Omron_B3FS-105xP
 Surface Mount Tactile Switch for High-Density Mounting, 7.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
 Tactile Switch
 0
 4
-4
+2
 Button_Switch_SMD
 SW_SPST_PTS645
 C&K Components SPST SMD PTS645 Series 6mm Tact Switch
@@ -2203,7 +2168,7 @@ SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf
 Omron B3F-10xx
 0
 4
-4
+2
 Button_Switch_THT
 SW_Tactile_SKHH_Angled
 tactile switch 6mm ALPS SKHH right angle http://www.alps.com/prod/info/E/HTML/Tact/SnapIn/SKHH/SKHHLUA010.html
@@ -6600,6 +6565,13 @@ Connector Audio Switronic ST-005-G
 0
 4
 3
+Connector_Audio
+Jack_3.5mm_Technik_TWP-3002_Horizontal
+3.5mm Horizontal Waterproof Stereo Headphones Jack, https://www.technik.com.hk/images/pdf_product/WP3002-PA66-A.pdf
+audio jack stereo horizontal waterproof
+0
+7
+4
 Connector_Audio
 Jack_6.35mm_Neutrik_NJ2FD-V_Vertical
 6.35mm (1/4 in) Vertical Jack, Non-switching mono jack (T/S), https://www.neutrik.com/en/product/nj2fd-v
@@ -45745,6 +45717,13 @@ USB_A Female Connector receptacle
 6
 5
 Connector_USB
+USB_A_TE_292303-7_Horizontal
+USB type A, Horizontal, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292303&DocType=Customer+Drawing&DocLang=English
+USB_A Female Connector receptacle
+0
+6
+5
+Connector_USB
 USB_A_Wuerth_614004134726_Horizontal
 USB A connector https://www.we-online.com/catalog/datasheet/614004134726.pdf
 USB_A Female Connector receptacle
@@ -50610,20 +50589,6 @@ Diode SOD923
 2
 2
 Diode_SMD
-D_SOT-23_ANK
-SOT-23, Single Diode
-SOT-23
-0
-3
-2
-Diode_SMD
-D_SOT-23_NKA
-SOT-23, Single Diode
-SOT-23
-0
-3
-2
-Diode_SMD
 D_TUMD2
 ROHM - TUMD2
 TUMD2
@@ -53434,6 +53399,13 @@ Inductor_SMD
 L_Bourns_SRP7028A_7.3x6.6mm
 Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
 Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRR1208_12.7x12.7mm
+Bourns SRP1208 series SMD inductor https://www.bourns.com/pdfs/SRR1208.pdf
+Bourns SRP1208 SMD inductor
 0
 2
 2
@@ -56931,6 +56903,13 @@ LED RGB PLCC-6 CLP6C-FBK
 6
 6
 LED_SMD
+LED_RGB_Everlight_EASV3015RGBA0_Horizontal
+LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220
+LED RGB right-angle
+0
+4
+4
+LED_SMD
 LED_RGB_Getian_GT-P6PRGB4303
 https://www.gme.sk/img/cache/doc/518/177/vykonova-led-getian-gt-p6prgb4303-datasheet-1.pdf
 LED RGB 
@@ -57595,98 +57574,140 @@ Yellow 5381 Series LED
 0
 2
 2
-Lib
+Library
+21-0136I_T1633F-3
+
+
+0
+17
+17
+Library
+AP6335
+
+
+0
+44
+44
+Library
 BGA-4_2x2_0.7x0.7mm
 
 
 0
 4
 4
-Lib
+Library
 BGA-9_3x3_2.9x2.35mm
 
 
 0
 8
 8
-Lib
+Library
 BT1220
 
 
 0
 4
 3
-Lib
+Library
 CH340E
 
 
 0
 0
 0
-Lib
+Library
 DIP-16_296_ELL
 
 
 0
 16
 16
-Lib
+Library
+ESP-12F
+
+
+0
+22
+22
+Library
 GlowTube
 
 
 0
 12
 12
-Lib
+Library
 LQFP-144_20x20mm_P0.5mm
 LQFP, 144 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425), generated with kicad-footprint-generator ipc_gullwing_generator.py
 LQFP QFP
 0
 144
 144
-Lib
+Library
 OSC_5032
 
 
 0
 2
 2
-Lib
+Library
 SIP-4
 
 
 0
 4
 4
-Lib
+Library
+SOIC-24
+
+
+0
+24
+24
+Library
+SON65P200X200X80-7N
+
+
+0
+7
+7
+Library
+SON100P300X300X80-7N
+
+
+0
+7
+7
+Library
 SOP-14
 
 
 0
 14
 14
-Lib
+Library
 SSOP-20_5.3x7.2mm_P0.65mm
 SSOP, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/40001800C.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SSOP SO
 0
 20
 20
-Lib
+Library
 SY98081
 
 
 0
 8
 8
-Lib
+Library
 TFBGA453
 
 
 0
 453
 453
-Lib
+Library
 TTRN-060S
 
 
@@ -60550,9 +60571,23 @@ Laser Diode TO56
 3
 3
 OptoDevice
+Lightpipe_Dialight_515-1064F
+https://www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources
+lightpipe triple tower right angle 3mm
+0
+0
+0
+OptoDevice
 Lightpipe_LPF-C012303S
 https://www.lumex.com/spec/LPF-C012303S.pdf
 lightpipe dual tower right angle 3mm
+0
+0
+0
+OptoDevice
+Lightpipe_LPF-C013301S
+https://www.lumex.com/spec/LPF-C013301S.pdf
+lightpipe triple tower right angle 3mm
 0
 0
 0
@@ -62977,6 +63012,13 @@ UFD Package, 4-Lead Plastic QFN (2mm x 2mm), http://ams.com/eng/content/download
 QFN 0.95
 0
 6
+5
+Package_DFN_QFN
+AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm
+DD Package; 8-Lead Plastic DFN (5.55mm x 5.2mm), Pin 5-8 connected to EP (http://www.aosmd.com/res/packaging_information/DFN5x6_8L_EP1_P.pdf)
+dfn 
+0
+25
 5
 Package_DFN_QFN
 Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias
@@ -75195,56 +75237,56 @@ potentiometer vertical 9mm dual
 6
 Potentiometer_THT
 Potentiometer_Alps_RK09K_Single_Horizontal
-Potentiometer, horizontal, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html
-Potentiometer horizontal Alps RK09K Single
+111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer, horizontal, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf
+Potentiometer horizontal Alps RK09K Single Snapin
 0
 5
-3
+4
 Potentiometer_THT
 Potentiometer_Alps_RK09K_Single_Vertical
-Potentiometer, vertical, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html
-Potentiometer vertical Alps RK09K Single
+113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf
+Potentiometer vertical Alps RK09K RK09D Single Snapin
 0
-3
-3
+5
+4
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Double_Horizontal
-Potentiometer, horizontal, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+122002H 122002L 12B0A4S 12B0A1V Potentiometer, horizontal, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
 Potentiometer horizontal Alps RK09L Double
 0
 8
-6
+7
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Double_Vertical
-Potentiometer, vertical, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+1240015 1240019 12D0A1W 12D0A1T Potentiometer, vertical, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
 Potentiometer vertical Alps RK09L Double
 0
-6
-6
+8
+7
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Single_Horizontal
-Potentiometer, horizontal, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+1120A5F 1120036 1120A0Z 112003S Potentiometer, horizontal, Alps RK09L Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
 Potentiometer horizontal Alps RK09L Single
 0
 5
-3
+4
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Single_Vertical
-Potentiometer, vertical, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+ 1140A5L 114001E 1140A2U 114001T Potentiometer, vertical, Alps RK09L Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
 Potentiometer vertical Alps RK09L Single
 0
-3
-3
+5
+4
 Potentiometer_THT
 Potentiometer_Alps_RK09Y11_Single_Horizontal
-Potentiometer, horizontal, Alps RK09Y11 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09Y11/RK09Y11_list.html
+Potentiometer, horizontal, Long Life, Alps RK09Y11 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09y11/rk09y11.pdf
 Potentiometer horizontal Alps RK09Y11 Single
 0
 3
 3
 Potentiometer_THT
 Potentiometer_Alps_RK097_Dual_Horizontal
-Potentiometer, horizontal, Alps RK097 Dual, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html
+1210, Dual Pot, Horizontal, Alps RK097 Dual,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
 Potentiometer horizontal Alps RK097 Dual
 0
 6
@@ -75252,27 +75294,34 @@ Potentiometer horizontal Alps RK097 Dual
 Potentiometer_THT
 Potentiometer_Alps_RK097_Dual_Horizontal_Switch
 1221-5R1211, Dual Pot, Horizontal, Switch, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
-pot horizontal alps rk097 dual switch
+Potentiometer horizontal Alps RK097 Dual Switch
 0
 8
 8
 Potentiometer_THT
 Potentiometer_Alps_RK097_Single_Horizontal
-Potentiometer, horizontal, Alps RK097 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html
+1110, Single Pot, Horizontal, Alps RK097 Single,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
 Potentiometer horizontal Alps RK097 Single
 0
 3
 3
 Potentiometer_THT
+Potentiometer_Alps_RK097_Single_Horizontal_Switch
+1111-5R1211, Single Pot, Horizontal, Switch, Alps RK097 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer horizontal Alps RK097 Single Switch
+0
+5
+5
+Potentiometer_THT
 Potentiometer_Alps_RK163_Dual_Horizontal
-Potentiometer, horizontal, Alps RK163 Dual, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
+12101A2 1210AX9 12A0B85 12A0BKR  Potentiometer, horizontal, Alps RK163 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf
 Potentiometer horizontal Alps RK163 Dual
 0
 6
 6
 Potentiometer_THT
 Potentiometer_Alps_RK163_Single_Horizontal
-Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
+1110U1Q 1110TNP 1110U2A 1110U0Q Potentiometer, horizontal, Alps RK163 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf
 Potentiometer horizontal Alps RK163 Single
 0
 3
@@ -75937,7 +75986,7 @@ http://www.susumu-usa.com/pdf/Foot_Print_38.pdf, https://www.susumu.co.jp/common
 3
 RF_GPS
 Linx_RXM-GPS
-GPS Module, Linx
+GPS Module, Linx (https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-rm.pdf)
 gps linx
 0
 22
@@ -76300,7 +76349,7 @@ Bluetooth Module
 30
 30
 RF_Module
-BM78SPPS5XC2
+BM78SPPS5xC2
 Bluetooth Dual-mode module with integral chip antenna (http://ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf)
 Bluetooth BR/EDR BLE
 0
@@ -76377,12 +76426,26 @@ ESP WROOM-02 espressif esp8266ex
 19
 19
 RF_Module
+ESP32-S2-MINI-1U
+2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi Bluetooth external antenna espressif  15.4*15.4mm
+0
+73
+65
+RF_Module
 ESP32-S2-WROVER
 ESP32-S2-WROVER(-I) 2.4 GHz Wi-Fi https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
 ESP32-S2  ESP32  WIFI
 0
 43
 43
+RF_Module
+ESP32-S3-WROOM-1
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
 RF_Module
 ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
@@ -76500,7 +76563,7 @@ RFDigital_RFD77101
 RFDigital RFD77101 Simblee
 RFDigital RFD77101 Simblee
 0
-48
+45
 45
 RF_Module
 RN42
@@ -79106,6 +79169,20 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
+SnapEDA Library
+MOLEX_47352-1001
+
+
+0
+13
+13
+SnapEDA Library
+SOIC127P600X168-8N
+
+
+0
+9
+9
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -84378,6 +84455,27 @@ Transformer Ethernet SMD
 24
 24
 Transformer_SMD
+Transformer_Ethernet_Halo_N2_SO-16_7.11x12.7mm
+Halo N2 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Halo SO Transformer_SMD
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm
+Halo N5 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Halo SO Transformer_SMD
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm
+Halo N6 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Halo SO Transformer_SMD
+0
+16
+16
+Transformer_SMD
 Transformer_Ethernet_Wuerth_749013011A
 Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf
 Ethernet Transformer
@@ -85714,20 +85812,20 @@ varistor SIOV
 0
 2
 2
-con_ipad_lcd
-DP_connector_MC34467
+lib
+TE_1-2199230-6
 
 
 0
-25
-24
-con_ipad_lcd
-ipad3_lcd_connector
+69
+69
+symbols
+21-0508A_W91E1Z-1
 
 
 0
-53
-53
+9
+9
 symbols
 AMPHENOL_10029449-001RLF
 
@@ -85736,6 +85834,34 @@ AMPHENOL_10029449-001RLF
 23
 23
 symbols
+BGA4N35P2X2_64X64X33
+
+
+0
+4
+4
+symbols
+BGA96C80P6X16_900X1400X120
+
+
+0
+96
+96
+symbols
+BGA828C65P31X31_2100X2100X161N
+
+
+0
+828
+828
+symbols
+MOLEX_47352-1001
+
+
+0
+13
+13
+symbols
 QFN35P700X700X80-69N
 
 
@@ -85743,12 +85869,33 @@ QFN35P700X700X80-69N
 69
 69
 symbols
+SOIC127P600X168-8N
+
+
+0
+9
+9
+symbols
 SOP50P2000X120-48N
 
 
 0
 48
 48
+symbols
+SOP65P640X120-21N
+
+
+0
+21
+21
+symbols
+SOP65P640X120-28N
+
+
+0
+28
+28
 symbols
 SOT95P280X145-5N
 
