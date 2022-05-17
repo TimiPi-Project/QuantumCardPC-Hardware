@@ -1,0 +1,1555 @@
+Dsn2Spd Version 21.1.0
+From file : E:\Raspberry Pi 3B+\RaspberryPi\RaspberryPi.dsn
+To file : E:\Raspberry Pi 3B+\RaspberryPi\RaspberryPi.spd
+Tuesday  May 17  17:47:11  2022
+
+Nets Translated : 
+	All nets are selected
+	+1V0	red
+	+1V1	green
+	+1V5	blue
+	+1V8	yellow
+	+3.3VP	magenta
+	+3V3	darkblue
+	+5V	darkgreen
+	/32K_IN	darkcyan
+	/A0	darkred
+	/A1	darkmagenta
+	/A10	darkyellow
+	/A11	red
+	/A12	green
+	/A13	blue
+	/A14	yellow
+	/A15	magenta
+	/A2	darkblue
+	/A3	darkgreen
+	/A4	darkcyan
+	/A5	darkred
+	/A6	darkmagenta
+	/A7	darkyellow
+	/A8	red
+	/A9	green
+	/BA0	blue
+	/BA1	yellow
+	/BA2	magenta
+	/BT_HOST_WAKE	darkblue
+	/BT_RST	darkgreen
+	/BT_WAKE	darkcyan
+	/CASN	darkred
+	/CEC	darkmagenta
+	/CKE0	darkyellow
+	/CKE1	red
+	/CLK	green
+	/CLKN	blue
+	/CS0N	yellow
+	/CS1N	magenta
+	/D0	darkblue
+	/D1	darkgreen
+	/D10	darkcyan
+	/D11	darkred
+	/D12	darkmagenta
+	/D13	darkyellow
+	/D14	red
+	/D15	green
+	/D16	blue
+	/D17	yellow
+	/D18	magenta
+	/D19	darkblue
+	/D2	darkgreen
+	/D20	darkcyan
+	/D21	darkred
+	/D22	darkmagenta
+	/D23	darkyellow
+	/D24	red
+	/D25	green
+	/D26	blue
+	/D27	yellow
+	/D28	magenta
+	/D29	darkblue
+	/D3	darkgreen
+	/D30	darkcyan
+	/D31	darkred
+	/D4	darkmagenta
+	/D5	darkyellow
+	/D6	red
+	/D7	green
+	/D8	blue
+	/D9	yellow
+	/DDCSCL	magenta
+	/DDCSDA	darkblue
+	/DDR_RETN	darkgreen
+	/DDR_RST	darkcyan
+	/DDRPWR	darkred
+	/DM0	darkmagenta
+	/DM1	darkyellow
+	/DM2	red
+	/DM3	green
+	/DQS0M	blue
+	/DQS0P	yellow
+	/DQS1M	magenta
+	/DQS1P	darkblue
+	/DQS2M	darkgreen
+	/DQS2P	darkcyan
+	/DQS3M	darkred
+	/DQS3P	darkmagenta
+	/H19	darkyellow
+	/HDMI_HPD	red
+	/HDMICEC	green
+	/HDMITXC+	blue
+	/HDMITXC-	yellow
+	/HDMITXD0+	magenta
+	/HDMITXD0-	darkblue
+	/HDMITXD1+	darkgreen
+	/HDMITXD1-	darkcyan
+	/HDMITXD2+	darkred
+	/HDMITXD2-	darkmagenta
+	/HOST1_D+	darkyellow
+	/HOST1_D-	red
+	/HOST_PWR1	green
+	/HOST_PWR2	blue
+	/HOST_VBus	yellow
+	/HUB_D1+	magenta
+	/HUB_D1-	darkblue
+	/HUB_D2+	darkgreen
+	/HUB_D2-	darkcyan
+	/HUB_D3+	darkred
+	/HUB_D3-	darkmagenta
+	/HUB_USB_D1+	darkyellow
+	/HUB_USB_D1-	red
+	/I2C0_SCL	green
+	/I2C0_SDA	blue
+	/I2C2_SCL	yellow
+	/I2C2_SDA	magenta
+	/I2C5_SCL_HDMI	darkblue
+	/I2C5_SDA_HDMI	darkgreen
+	/K20	darkcyan
+	/L17	darkred
+	/L18	darkmagenta
+	/L23	darkyellow
+	/LED0	red
+	/LED1	green
+	/LED2_RXDLY	blue
+	/MAC_MDC	yellow
+	/MAC_MDIO	magenta
+	/MDI0+	darkblue
+	/MDI0-	darkgreen
+	/MDI1+	darkcyan
+	/MDI1-	darkred
+	/MDI2+	darkmagenta
+	/MDI2-	darkyellow
+	/MDI3+	red
+	/MDI3-	green
+	/ODT0	blue
+	/ODT1	yellow
+	/OTG_D+	magenta
+	/OTG_D-	darkblue
+	/OTG_DET	darkgreen
+	/OTG_ID	darkcyan
+	/OTG_VBus	darkred
+	/OTGVDD	darkmagenta
+	/PHY_CLKOUT125	darkyellow
+	/PHY_INT	red
+	/PHY_PMEB	green
+	/PHY_RST	blue
+	/PHY_RXCLK	yellow
+	/PHY_RXD0	magenta
+	/PHY_RXD1	darkblue
+	/PHY_RXD2	darkgreen
+	/PHY_RXD3	darkcyan
+	/PHY_RXDV	darkred
+	/PHY_TXCLK	darkmagenta
+	/PHY_TXD0	darkyellow
+	/PHY_TXD1	red
+	/PHY_TXD2	green
+	/PHY_TXD3	blue
+	/PHY_TXEN	yellow
+	/PHY_XTAL1	magenta
+	/PHY_XTAL2	darkblue
+	/PMIC_SLP	darkgreen
+	/PWM_32KOUT	darkcyan
+	/PWR_KEY	darkred
+	/RASN	darkmagenta
+	/RECOVER	darkyellow
+	/REGOUT	red
+	/RETEN	green
+	/RSET	blue
+	/RST	yellow
+	/SDIO0_CLK	magenta
+	/SDIO0_CMD	darkblue
+	/SDIO0_D0	darkgreen
+	/SDIO0_D1	darkcyan
+	/SDIO0_D2	darkred
+	/SDIO0_D3	darkmagenta
+	/SDMMC_CLK	darkyellow
+	/SDMMC_CMD	red
+	/SDMMC_D0	green
+	/SDMMC_D1	blue
+	/SDMMC_D2	yellow
+	/SDMMC_D3	magenta
+	/SDMMC_DET	darkblue
+	/UART0_CTS	darkgreen
+	/UART0_RTS	darkcyan
+	/UART0_RX	darkred
+	/UART0_TX	darkmagenta
+	/UART1_CTS	darkyellow
+	/UART1_RTS	red
+	/UART1_RX	green
+	/UART1_TX	blue
+	/UART_RTS	yellow
+	/USB_RESET	magenta
+	/VREF_DDR	darkblue
+	/WEN	darkgreen
+	/WIFI_HOST_WAKE	darkcyan
+	/WIFI_REG_ON	darkred
+	/XIN	darkmagenta
+	/XOU	darkyellow
+	GND	red
+	Net-(AE1-A)	green
+	Net-(C19-Pad2)	blue
+	Net-(C20-Pad2)	yellow
+	Net-(C60-Pad2)	magenta
+	Net-(C65-Pad2)	darkblue
+	Net-(D10-A2)	darkgreen
+	Net-(D11-A2)	darkcyan
+	Net-(D12-K)	darkred
+	Net-(D13-A2)	darkmagenta
+	Net-(D14-A2)	darkyellow
+	Net-(D15-A2)	red
+	Net-(D16-A2)	green
+	Net-(D17-A2)	blue
+	Net-(D18-A2)	yellow
+	Net-(D2-K)	magenta
+	Net-(D4-A2)	darkblue
+	Net-(D5-A2)	darkgreen
+	Net-(D6-A2)	darkcyan
+	Net-(D7-A2)	darkred
+	Net-(D8-A2)	darkmagenta
+	Net-(D9-A2)	darkyellow
+	Net-(P1-VBUS)	red
+	Net-(Q1-G)	green
+	Net-(Q1-S)	blue
+	Net-(U11-HDMI_HPD)	yellow
+	Net-(U11-HDMI_RBIAS)	magenta
+	Net-(U12-SW)	darkblue
+	Net-(U14-FB)	darkgreen
+	Net-(U14-REF)	darkcyan
+	Net-(U16-RETEN_IN)	darkred
+	Net-(U17-OSC_24M_IN)	darkmagenta
+	Net-(U17-OSC_24M_OUT)	darkyellow
+	Net-(U2-USB_RBIAS)	red
+	Net-(U21-OVCUR1)	green
+	Net-(U21-OVCUR2)	blue
+	Net-(U21-PGANG)	yellow
+	Net-(U21-PSELF)	magenta
+	Net-(U21-RESET#)	darkblue
+	Net-(U21-RREF)	darkgreen
+	Net-(U21-TEST/SCL)	darkcyan
+	Net-(U24-EN)	darkred
+	Net-(U24-ILIM)	darkmagenta
+	Net-(U25-TCT1)	darkyellow
+	Net-(U25-TCT1)_1	red
+	Net-(U25-TCT2)	green
+	Net-(U25-TCT3)	blue
+	Net-(U25-TCT4)	yellow
+	Net-(U25-TD1+)	magenta
+	Net-(U25-TD1-)	darkblue
+	Net-(U25-TD2+)	darkgreen
+	Net-(U25-TD2-)	darkcyan
+	Net-(U25-TD3+)	darkred
+	Net-(U25-TD3-)	darkmagenta
+	Net-(U25-TD4+)	darkyellow
+	Net-(U25-TD4-)	red
+	Net-(U26-MAC_CLK)	green
+	Net-(U26-MAC_TXCLK)	blue
+	Net-(U26-MAC_TXD0)	yellow
+	Net-(U26-MAC_TXD1)	magenta
+	Net-(U26-MAC_TXD2)	darkblue
+	Net-(U26-MAC_TXEN)	darkgreen
+	Net-(U26-TXD3)	darkcyan
+	Net-(U27-EN)	darkred
+	Net-(U27-ILIM)	darkmagenta
+	Net-(U28-EN)	darkyellow
+	Net-(U28-ILIM)	red
+	Net-(U29-ANT)	green
+	Net-(U29-SDIO_DATA_0)	blue
+	Net-(U29-SDIO_DATA_1)	yellow
+	Net-(U29-SDIO_DATA_2)	magenta
+	Net-(U29-SDIO_DATA_3)	darkblue
+	Net-(U29-SDIO_DATA_CLK)	darkgreen
+	Net-(U29-SDIO_DATA_CMD)	darkcyan
+	Net-(U29-VIN_LDO)	darkred
+	Net-(U29-VIN_LDO_OUT)	darkmagenta
+	Net-(U29-VTAL_OUT)	darkyellow
+	Net-(U29-XTAL_IN)	red
+	Net-(U30-WP)	green
+	Net-(U31-C1+)	blue
+	Net-(U31-C1-)	yellow
+	Net-(U31-C2+)	magenta
+	Net-(U31-C2-)	darkblue
+	Net-(U31-R1IN)	darkgreen
+	Net-(U31-R2IN)	darkcyan
+	Net-(U31-T1OUT)	darkred
+	Net-(U31-T2OUT)	darkmagenta
+	Net-(U31-VS+)	darkyellow
+	Net-(U31-VS-)	red
+	Net-(U9-FB)	green
+	Net-(U9-SW)	blue
+	unconnected-(J8-UTILITY)	yellow
+	unconnected-(J9-Pad1)	magenta
+	unconnected-(J9-Pad4)	darkblue
+	unconnected-(J9-Pad6)	darkgreen
+	unconnected-(J9-Pad9)	darkcyan
+	unconnected-(P1-CC)	darkred
+	unconnected-(P1-D+)	darkmagenta
+	unconnected-(P1-D-)	darkyellow
+	unconnected-(P1-VCONN)	red
+	unconnected-(U10-NC/FB)	green
+	unconnected-(U14-OUT)	blue
+	unconnected-(U15-NC)	yellow
+	unconnected-(U21-PWREN1)	magenta
+	unconnected-(U21-PWREN2)	darkblue
+	unconnected-(U21-V5)	darkgreen
+	unconnected-(U29-GND3)	darkcyan
+
+
+Layer Arrangement : 
+	F.Cu
+		P	F.Cu
+	In1.Cu
+		P	In1.Cu
+	In2.Cu
+		P	In2.Cu
+	B.Cu
+		P	B.Cu
+
+Settings :
+	Translate power layer to : Plane or Signal
+	Allow patches on Signal layers
+	Add pseudo plane(s) if lack of plane
+	Exclude elements with no net names
+	Distinguish shapes of different nets by color
+	Maximum arc length replaced by line segment 0.200000 mm
+	In Boundary Fields ,  Signal will be chosen for Shapes on Power Layer
+	Translate component linkages
+	Translate Pads
+	The via radius is 75.000000% of the padstack, if drill radius is not specified
+	Append net name to objects
+
+
+Warnings:
+
+
+
+Component Model Info :
+
+1] Component RefDes : J9 	Value\Model is Missing . 
+2] Component RefDes : U3 	Value\Model is Missing . 
+3] Component RefDes : D3 	Value\Model is Missing . 
+4] Component RefDes : D11 	Value\Model is Missing . 
+5] Component RefDes : C12 	Value\Model is Missing . 
+6] Component RefDes : C23 	Value\Model is Missing . 
+7] Component RefDes : C45 	Value\Model is Missing . 
+8] Component RefDes : C78 	Value\Model is Missing . 
+9] Component RefDes : C56 	Value\Model is Missing . 
+10] Component RefDes : C34 	Value\Model is Missing . 
+11] Component RefDes : R69 	Value\Model is Missing . 
+12] Component RefDes : R14 	Value\Model is Missing . 
+13] Component RefDes : R36 	Value\Model is Missing . 
+14] Component RefDes : C67 	Value\Model is Missing . 
+15] Component RefDes : R25 	Value\Model is Missing . 
+16] Component RefDes : R58 	Value\Model is Missing . 
+17] Component RefDes : R47 	Value\Model is Missing . 
+18] Component RefDes : D12 	Value\Model is Missing . 
+19] Component RefDes : U12 	Value\Model is Missing . 
+20] Component RefDes : U4 	Value\Model is Missing . 
+21] Component RefDes : D4 	Value\Model is Missing . 
+22] Component RefDes : C3 	Value\Model is Missing . 
+23] Component RefDes : C57 	Value\Model is Missing . 
+24] Component RefDes : C79 	Value\Model is Missing . 
+25] Component RefDes : C35 	Value\Model is Missing . 
+26] Component RefDes : C46 	Value\Model is Missing . 
+27] Component RefDes : C68 	Value\Model is Missing . 
+28] Component RefDes : C13 	Value\Model is Missing . 
+29] Component RefDes : R15 	Value\Model is Missing . 
+30] Component RefDes : R1 	Value\Model is Missing . 
+31] Component RefDes : R26 	Value\Model is Missing . 
+32] Component RefDes : R37 	Value\Model is Missing . 
+33] Component RefDes : R100 	Value\Model is Missing . 
+34] Component RefDes : R48 	Value\Model is Missing . 
+35] Component RefDes : R59 	Value\Model is Missing . 
+36] Component RefDes : U24 	Value\Model is Missing . 
+37] Component RefDes : U5 	Value\Model is Missing . 
+38] Component RefDes : Q1 	Value\Model is Missing . 
+39] Component RefDes : D13 	Value\Model is Missing . 
+40] Component RefDes : D5 	Value\Model is Missing . 
+41] Component RefDes : TP1 	Value\Model is Missing . 
+42] Component RefDes : R49 	Value\Model is Missing . 
+43] Component RefDes : C25 	Value\Model is Missing . 
+44] Component RefDes : C4 	Value\Model is Missing . 
+45] Component RefDes : C36 	Value\Model is Missing . 
+46] Component RefDes : C47 	Value\Model is Missing . 
+47] Component RefDes : C14 	Value\Model is Missing . 
+48] Component RefDes : C58 	Value\Model is Missing . 
+49] Component RefDes : R2 	Value\Model is Missing . 
+50] Component RefDes : R101 	Value\Model is Missing . 
+51] Component RefDes : R38 	Value\Model is Missing . 
+52] Component RefDes : C69 	Value\Model is Missing . 
+53] Component RefDes : R27 	Value\Model is Missing . 
+54] Component RefDes : R16 	Value\Model is Missing . 
+55] Component RefDes : P1 	Value\Model is Missing . 
+56] Component RefDes : U25 	Value\Model is Missing . 
+57] Component RefDes : Q2 	Value\Model is Missing . 
+58] Component RefDes : R102 	Value\Model is Missing . 
+59] Component RefDes : U14 	Value\Model is Missing . 
+60] Component RefDes : TP2 	Value\Model is Missing . 
+61] Component RefDes : D14 	Value\Model is Missing . 
+62] Component RefDes : D6 	Value\Model is Missing . 
+63] Component RefDes : C26 	Value\Model is Missing . 
+64] Component RefDes : C15 	Value\Model is Missing . 
+65] Component RefDes : C37 	Value\Model is Missing . 
+66] Component RefDes : C48 	Value\Model is Missing . 
+67] Component RefDes : C5 	Value\Model is Missing . 
+68] Component RefDes : R3 	Value\Model is Missing . 
+69] Component RefDes : R28 	Value\Model is Missing . 
+70] Component RefDes : R39 	Value\Model is Missing . 
+71] Component RefDes : R17 	Value\Model is Missing . 
+72] Component RefDes : C59 	Value\Model is Missing . 
+73] Component RefDes : U7 	Value\Model is Missing . 
+74] Component RefDes : Q3 	Value\Model is Missing . 
+75] Component RefDes : U15 	Value\Model is Missing . 
+76] Component RefDes : D7 	Value\Model is Missing . 
+77] Component RefDes : D15 	Value\Model is Missing . 
+78] Component RefDes : TP3 	Value\Model is Missing . 
+79] Component RefDes : C38 	Value\Model is Missing . 
+80] Component RefDes : C49 	Value\Model is Missing . 
+81] Component RefDes : C6 	Value\Model is Missing . 
+82] Component RefDes : C16 	Value\Model is Missing . 
+83] Component RefDes : R29 	Value\Model is Missing . 
+84] Component RefDes : R103 	Value\Model is Missing . 
+85] Component RefDes : R18 	Value\Model is Missing . 
+86] Component RefDes : R4 	Value\Model is Missing . 
+87] Component RefDes : U8 	Value\Model is Missing . 
+88] Component RefDes : U27 	Value\Model is Missing . 
+89] Component RefDes : Q4 	Value\Model is Missing . 
+90] Component RefDes : TP4 	Value\Model is Missing . 
+91] Component RefDes : D16 	Value\Model is Missing . 
+92] Component RefDes : D8 	Value\Model is Missing . 
+93] Component RefDes : R19 	Value\Model is Missing . 
+94] Component RefDes : C39 	Value\Model is Missing . 
+95] Component RefDes : C7 	Value\Model is Missing . 
+96] Component RefDes : C28 	Value\Model is Missing . 
+97] Component RefDes : C17 	Value\Model is Missing . 
+98] Component RefDes : R90 	Value\Model is Missing . 
+99] Component RefDes : R5 	Value\Model is Missing . 
+100] Component RefDes : U28 	Value\Model is Missing . 
+101] Component RefDes : U9 	Value\Model is Missing . 
+102] Component RefDes : TP5 	Value\Model is Missing . 
+103] Component RefDes : D17 	Value\Model is Missing . 
+104] Component RefDes : D9 	Value\Model is Missing . 
+105] Component RefDes : C18 	Value\Model is Missing . 
+106] Component RefDes : C8 	Value\Model is Missing . 
+107] Component RefDes : C29 	Value\Model is Missing . 
+108] Component RefDes : R80 	Value\Model is Missing . 
+109] Component RefDes : R91 	Value\Model is Missing . 
+110] Component RefDes : U29 	Value\Model is Missing . 
+111] Component RefDes : L1 	Value\Model is Missing . 
+112] Component RefDes : D18 	Value\Model is Missing . 
+113] Component RefDes : C19 	Value\Model is Missing . 
+114] Component RefDes : R92 	Value\Model is Missing . 
+115] Component RefDes : R70 	Value\Model is Missing . 
+116] Component RefDes : R7 	Value\Model is Missing . 
+117] Component RefDes : R81 	Value\Model is Missing . 
+118] Component RefDes : L2 	Value\Model is Missing . 
+119] Component RefDes : C80 	Value\Model is Missing . 
+120] Component RefDes : R93 	Value\Model is Missing . 
+121] Component RefDes : R60 	Value\Model is Missing . 
+122] Component RefDes : R71 	Value\Model is Missing . 
+123] Component RefDes : R8 	Value\Model is Missing . 
+124] Component RefDes : R82 	Value\Model is Missing . 
+125] Component RefDes : L3 	Value\Model is Missing . 
+126] Component RefDes : R50 	Value\Model is Missing . 
+127] Component RefDes : J1 	Value\Model is Missing . 
+128] Component RefDes : R72 	Value\Model is Missing . 
+129] Component RefDes : C70 	Value\Model is Missing . 
+130] Component RefDes : R94 	Value\Model is Missing . 
+131] Component RefDes : C81 	Value\Model is Missing . 
+132] Component RefDes : R9 	Value\Model is Missing . 
+133] Component RefDes : R83 	Value\Model is Missing . 
+134] Component RefDes : R61 	Value\Model is Missing . 
+135] Component RefDes : L4 	Value\Model is Missing . 
+136] Component RefDes : J2 	Value\Model is Missing . 
+137] Component RefDes : C60 	Value\Model is Missing . 
+138] Component RefDes : R62 	Value\Model is Missing . 
+139] Component RefDes : R40 	Value\Model is Missing . 
+140] Component RefDes : R84 	Value\Model is Missing . 
+141] Component RefDes : R51 	Value\Model is Missing . 
+142] Component RefDes : C71 	Value\Model is Missing . 
+143] Component RefDes : R95 	Value\Model is Missing . 
+144] Component RefDes : J3 	Value\Model is Missing . 
+145] Component RefDes : R30 	Value\Model is Missing . 
+146] Component RefDes : Y1 	Value\Model is Missing . 
+147] Component RefDes : AE1 	Value\Model is Missing . 
+148] Component RefDes : R63 	Value\Model is Missing . 
+149] Component RefDes : C72 	Value\Model is Missing . 
+150] Component RefDes : R96 	Value\Model is Missing . 
+151] Component RefDes : R85 	Value\Model is Missing . 
+152] Component RefDes : R41 	Value\Model is Missing . 
+153] Component RefDes : C50 	Value\Model is Missing . 
+154] Component RefDes : C61 	Value\Model is Missing . 
+155] Component RefDes : C83 	Value\Model is Missing . 
+156] Component RefDes : R52 	Value\Model is Missing . 
+157] Component RefDes : J4 	Value\Model is Missing . 
+158] Component RefDes : Y2 	Value\Model is Missing . 
+159] Component RefDes : C73 	Value\Model is Missing . 
+160] Component RefDes : C51 	Value\Model is Missing . 
+161] Component RefDes : C62 	Value\Model is Missing . 
+162] Component RefDes : R64 	Value\Model is Missing . 
+163] Component RefDes : R20 	Value\Model is Missing . 
+164] Component RefDes : C40 	Value\Model is Missing . 
+165] Component RefDes : C84 	Value\Model is Missing . 
+166] Component RefDes : R31 	Value\Model is Missing . 
+167] Component RefDes : R42 	Value\Model is Missing . 
+168] Component RefDes : R86 	Value\Model is Missing . 
+169] Component RefDes : R53 	Value\Model is Missing . 
+170] Component RefDes : R97 	Value\Model is Missing . 
+171] Component RefDes : F1 	Value\Model is Missing . 
+172] Component RefDes : Y3 	Value\Model is Missing . 
+173] Component RefDes : C74 	Value\Model is Missing . 
+174] Component RefDes : J5 	Value\Model is Missing . 
+175] Component RefDes : C30 	Value\Model is Missing . 
+176] Component RefDes : C41 	Value\Model is Missing . 
+177] Component RefDes : R21 	Value\Model is Missing . 
+178] Component RefDes : R87 	Value\Model is Missing . 
+179] Component RefDes : R98 	Value\Model is Missing . 
+180] Component RefDes : C85 	Value\Model is Missing . 
+181] Component RefDes : R43 	Value\Model is Missing . 
+182] Component RefDes : C63 	Value\Model is Missing . 
+183] Component RefDes : R65 	Value\Model is Missing . 
+184] Component RefDes : R54 	Value\Model is Missing . 
+185] Component RefDes : C52 	Value\Model is Missing . 
+186] Component RefDes : R32 	Value\Model is Missing . 
+187] Component RefDes : R10 	Value\Model is Missing . 
+188] Component RefDes : R11 	Value\Model is Missing . 
+189] Component RefDes : U30 	Value\Model is Missing . 
+190] Component RefDes : Y4 	Value\Model is Missing . 
+191] Component RefDes : J6 	Value\Model is Missing . 
+192] Component RefDes : C20 	Value\Model is Missing . 
+193] Component RefDes : C75 	Value\Model is Missing . 
+194] Component RefDes : R22 	Value\Model is Missing . 
+195] Component RefDes : C31 	Value\Model is Missing . 
+196] Component RefDes : C53 	Value\Model is Missing . 
+197] Component RefDes : C64 	Value\Model is Missing . 
+198] Component RefDes : C42 	Value\Model is Missing . 
+199] Component RefDes : R44 	Value\Model is Missing . 
+200] Component RefDes : R88 	Value\Model is Missing . 
+201] Component RefDes : R66 	Value\Model is Missing . 
+202] Component RefDes : R55 	Value\Model is Missing . 
+203] Component RefDes : R99 	Value\Model is Missing . 
+204] Component RefDes : R33 	Value\Model is Missing . 
+205] Component RefDes : U1 	Value\Model is Missing . 
+206] Component RefDes : U31 	Value\Model is Missing . 
+207] Component RefDes : C10 	Value\Model is Missing . 
+208] Component RefDes : D1 	Value\Model is Missing . 
+209] Component RefDes : U20 	Value\Model is Missing . 
+210] Component RefDes : REF** 	Value\Model is Missing . 
+211] Component RefDes : J7 	Value\Model is Missing . 
+212] Component RefDes : C65 	Value\Model is Missing . 
+213] Component RefDes : C76 	Value\Model is Missing . 
+214] Component RefDes : C32 	Value\Model is Missing . 
+215] Component RefDes : R12 	Value\Model is Missing . 
+216] Component RefDes : R23 	Value\Model is Missing . 
+217] Component RefDes : C21 	Value\Model is Missing . 
+218] Component RefDes : C43 	Value\Model is Missing . 
+219] Component RefDes : R34 	Value\Model is Missing . 
+220] Component RefDes : C54 	Value\Model is Missing . 
+221] Component RefDes : R45 	Value\Model is Missing . 
+222] Component RefDes : R89 	Value\Model is Missing . 
+223] Component RefDes : R78 	Value\Model is Missing . 
+224] Component RefDes : R56 	Value\Model is Missing . 
+225] Component RefDes : R67 	Value\Model is Missing . 
+226] Component RefDes : J8 	Value\Model 
+
+Component Linkage Info :
+
+
+
+Component:J9:
+
+
+
+Component:U3:
+
+
+
+Component:D3:
+
+
+
+Component:D11:
+
+
+
+Component:C12:
+
+
+
+Component:C23:
+
+
+
+Component:C45:
+
+
+
+Component:C78:
+
+
+
+Component:C56:
+
+
+
+Component:C34:
+
+
+
+Component:R69:
+
+
+
+Component:R14:
+
+
+
+Component:R36:
+
+
+
+Component:C67:
+
+
+
+Component:R25:
+
+
+
+Component:R58:
+
+
+
+Component:R47:
+
+
+
+Component:D12:
+
+
+
+Component:U12:
+
+
+
+Component:U4:
+
+
+
+Component:D4:
+
+
+
+Component:C3:
+
+
+
+Component:C57:
+
+
+
+Component:C79:
+
+
+
+Component:C35:
+
+
+
+Component:C46:
+
+
+
+Component:C68:
+
+
+
+Component:C13:
+
+
+
+Component:R15:
+
+
+
+Component:R1:
+
+
+
+Component:R26:
+
+
+
+Component:R37:
+
+
+
+Component:R100:
+
+
+
+Component:R48:
+
+
+
+Component:R59:
+
+
+
+Component:U24:
+
+
+
+Component:U5:
+
+
+
+Component:Q1:
+
+
+
+Component:D13:
+
+
+
+Component:D5:
+
+
+
+Component:TP1:
+
+
+
+Component:R49:
+
+
+
+Component:C25:
+
+
+
+Component:C4:
+
+
+
+Component:C36:
+
+
+
+Component:C47:
+
+
+
+Component:C14:
+
+
+
+Component:C58:
+
+
+
+Component:R2:
+
+
+
+Component:R101:
+
+
+
+Component:R38:
+
+
+
+Component:C69:
+
+
+
+Component:R27:
+
+
+
+Component:R16:
+
+
+
+Component:P1:
+
+
+
+Component:U25:
+
+
+
+Component:Q2:
+
+
+
+Component:R102:
+
+
+
+Component:U14:
+
+
+
+Component:TP2:
+
+
+
+Component:D14:
+
+
+
+Component:D6:
+
+
+
+Component:C26:
+
+
+
+Component:C15:
+
+
+
+Component:C37:
+
+
+
+Component:C48:
+
+
+
+Component:C5:
+
+
+
+Component:R3:
+
+
+
+Component:R28:
+
+
+
+Component:R39:
+
+
+
+Component:R17:
+
+
+
+Component:C59:
+
+
+
+Component:U7:
+
+
+
+Component:Q3:
+
+
+
+Component:U15:
+
+
+
+Component:D7:
+
+
+
+Component:D15:
+
+
+
+Component:TP3:
+
+
+
+Component:C38:
+
+
+
+Component:C49:
+
+
+
+Component:C6:
+
+
+
+Component:C16:
+
+
+
+Component:R29:
+
+
+
+Component:R103:
+
+
+
+Component:R18:
+
+
+
+Component:R4:
+
+
+
+Component:U8:
+
+
+
+Component:U27:
+
+
+
+Component:Q4:
+
+
+
+Component:TP4:
+
+
+
+Component:D16:
+
+
+
+Component:D8:
+
+
+
+Component:R19:
+
+
+
+Component:C39:
+
+
+
+Component:C7:
+
+
+
+Component:C28:
+
+
+
+Component:C17:
+
+
+
+Component:R90:
+
+
+
+Component:R5:
+
+
+
+Component:U28:
+
+
+
+Component:U9:
+
+
+
+Component:TP5:
+
+
+
+Component:D17:
+
+
+
+Component:D9:
+
+
+
+Component:C18:
+
+
+
+Component:C8:
+
+
+
+Component:C29:
+
+
+
+Component:R80:
+
+
+
+Component:R91:
+
+
+
+Component:U29:
+
+
+
+Component:L1:
+
+
+
+Component:D18:
+
+
+
+Component:C19:
+
+
+
+Component:R92:
+
+
+
+Component:R70:
+
+
+
+Component:R7:
+
+
+
+Component:R81:
+
+
+
+Component:L2:
+
+
+
+Component:C80:
+
+
+
+Component:R93:
+
+
+
+Component:R60:
+
+
+
+Component:R71:
+
+
+
+Component:R8:
+
+
+
+Component:R82:
+
+
+
+Component:L3:
+
+
+
+Component:R50:
+
+
+
+Component:J1:
+
+
+
+Component:R72:
+
+
+
+Component:C70:
+
+
+
+Component:R94:
+
+
+
+Component:C81:
+
+
+
+Component:R9:
+
+
+
+Component:R83:
+
+
+
+Component:R61:
+
+
+
+Component:L4:
+
+
+
+Component:J2:
+
+
+
+Component:C60:
+
+
+
+Component:R62:
+
+
+
+Component:R40:
+
+
+
+Component:R84:
+
+
+
+Component:R51:
+
+
+
+Component:C71:
+
+
+
+Component:R95:
+
+
+
+Component:J3:
+
+
+
+Component:R30:
+
+
+
+Component:Y1:
+
+
+
+Component:AE1:
+
+
+
+Component:R63:
+
+
+
+Component:C72:
+
+
+
+Component:R96:
+
+
+
+Component:R85:
+
+
+
+Component:R41:
+
+
+
+Component:C50:
+
+
+
+Component:C61:
+
+
+
+Component:C83:
+
+
+
+Component:R52:
+
+
+
+Component:J4:
+
+
+
+Component:Y2:
+
+
+
+Component:C73:
+
+
+
+Component:C51:
+
+
+
+Component:C62:
+
+
+
+Component:R64:
+
+
+
+Component:R20:
+
+
+
+Component:C40:
+
+
+
+Component:C84:
+
+
+
+Component:R31:
+
+
+
+Component:R42:
+
+
+
+Component:R86:
+
+
+
+Component:R53:
+
+
+
+Component:R97:
+
+
+
+Component:F1:
+
+
+
+Component:Y3:
+
+
+
+Component:C74:
+
+
+
+Component:J5:
+
+
+
+Component:C30:
+
+
+
+Component:C41:
+
+
+
+Component:R21:
+
+
+
+Component:R87:
+
+
+
+Component:R98:
+
+
+
+Component:C85:
+
+
+
+Component:R43:
+
+
+
+Component:C63:
+
+
+
+Component:R65:
+
+
+
+Component:R54:
+
+
+
+Component:C52:
+
+
+
+Component:R32:
+
+
+
+Component:R10:
+
+
+
+Component:R11:
+
+
+
+Component:U30:
+
+
+
+Component:Y4:
+
+
+
+Component:J6:
+
+
+
+Component:C20:
+
+
+
+Component:C75:
+
+
+
+Component:R22:
+
+
+
+Component:C31:
+
+
+
+Component:C53:
+
+
+
+Component:C64:
+
+
+
+Component:C42:
+
+
+
+Component:R44:
+
+
+
+Component:R88:
+
+
+
+Component:R66:
+
+
+
+Component:R55:
+
+
+
+Component:R99:
+
+
+
+Component:R33:
+
+
+
+Component:U1:
+
+
+
+Component:U31:
+
+
+
+Component:C10:
+
+
+
+Component:D1:
+
+
+
+Component:U20:
+
+
+
+Component:REF**:
+
+
+
+Component:J7:
+
+
+
+Component:C65:
+
+
+
+Component:C76:
+
+
+
+Component:C32:
+
+
+
+Component:R12:
+
+
+
+Component:R23:
+
+
+
+Component:C21:
+
+
+
+Component:C43:
+
+
+
+Component:R34:
+
+
+
+Component:C54:
+
+
+
+Component:R45:
+
+
+
+Component:R89:
+
+
+
+Component:R78:
+
+
+
+Component:R56:
+
+
+
+Component:R67:
+
+
+
+Component:J8:
+
+
+
+Component:U21:
+
+
+
+Component:U2:
+
+
+
+Component:U10:
+
+
+
+Component:D2:
+
+
+
+Component:D10:
+
+
+
+Component:C77:
+
+
+
+Component:C11:
+
+
+
+Component:C1:
+
+
+
+Component:C44:
+
+
+
+Component:C22:
+
+
+
+Component:C66:
+
+
+
+Component:C55:
+
+
+
+Component:C33:
+
+
+
+Component:R24:
+
+
+
+Component:R46:
+
+
+
+Component:R68:
+
+
+
+Component:R57:
+
+
+
+Component:R13:
+
+
+
+Component:R35:
+
+
+Total No Of Components Not Linked = 0

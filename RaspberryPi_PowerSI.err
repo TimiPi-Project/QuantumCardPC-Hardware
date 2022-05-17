@@ -1,0 +1,53 @@
+[2022/05/17-17:49:52]--****Via Overlap Check*****
+                       WARNING [Via Overlap]: Via35::GND overlaps with the via, Via34::/SDMMC_D0.Correct the overlapping vias before running simulation again.
+[2022/05/17-17:49:52]--Environment: Mesh on.
+[2022/05/17-17:49:52]--
+                       WARNING [Signal Net Padstack]: Signal net [GND] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [GND] lacks pad and/or antipad values in padstack [Round[A]Pad_3000_um].
+                       WARNING [Signal Net Padstack]: Signal net [/HOST_PWR2] lacks pad and/or antipad values in padstack [Rect[A]Pad_1600x1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D18-A2)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D15-A2)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D12-K)] lacks pad and/or antipad values in padstack [Rect[A]Pad_1600x1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [/HOST_PWR1] lacks pad and/or antipad values in padstack [Rect[A]Pad_1600x1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D5-A2)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D7-A2)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(Q1-S)] lacks pad and/or antipad values in padstack [Rect[A]Pad_1600x1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D12-K)] lacks pad and/or antipad values in padstack [Rect[A]Pad_1600x1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [/HOST_PWR1] lacks pad and/or antipad values in padstack [Rect[A]Pad_1600x1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D16-A2)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [/HOST_PWR2] lacks pad and/or antipad values in padstack [Rect[A]Pad_1600x1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [/SDMMC_D1] lacks pad and/or antipad values in padstack [Rect[A]Pad_1700x1700_um].
+                       WARNING [Signal Net Padstack]: Signal net [/SDMMC_D0] lacks pad and/or antipad values in padstack [Oval[A]Pad_1700x1700_um].
+                       WARNING [Signal Net Padstack]: Signal net [GND] lacks pad and/or antipad values in padstack [Oval[A]Pad_1700x1700_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U25-TD4-)] lacks pad and/or antipad values in padstack [Rect[A]Pad_1500x1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U25-TD4+)] lacks pad and/or antipad values in padstack [Round[A]Pad_1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U25-TD3-)] lacks pad and/or antipad values in padstack [Round[A]Pad_1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U25-TD2-)] lacks pad and/or antipad values in padstack [Round[A]Pad_1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D13-A2)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U25-TD2+)] lacks pad and/or antipad values in padstack [Round[A]Pad_1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U25-TD3+)] lacks pad and/or antipad values in padstack [Round[A]Pad_1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U25-TD1-)] lacks pad and/or antipad values in padstack [Round[A]Pad_1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U25-TD1+)] lacks pad and/or antipad values in padstack [Round[A]Pad_1500_um].
+                       WARNING [Signal Net Padstack]: Signal net [GND] lacks pad and/or antipad values in padstack [Oval[A]Pad_3200x3200_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D2-K)] lacks pad and/or antipad values in padstack [Rect[A]Pad_3200x3200_um].
+                       WARNING [Signal Net Padstack]: Signal net [unconnected-(J9-Pad1)] lacks pad and/or antipad values in padstack [Rect[A]Pad_1600x1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U31-R1IN)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U31-T1OUT)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [unconnected-(J9-Pad4)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [unconnected-(J9-Pad6)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U31-T2OUT)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(U31-R2IN)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [unconnected-(J9-Pad9)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [GND] lacks pad and/or antipad values in padstack [Rect[A]Pad_1600x1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [+5V] lacks pad and/or antipad values in padstack [Oval[A]Pad_1600x1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [GND] lacks pad and/or antipad values in padstack [Oval[A]Pad_800x1400_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D17-A2)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       WARNING [Signal Net Padstack]: Signal net [Net-(D14-A2)] lacks pad and/or antipad values in padstack [Round[A]Pad_1600_um].
+                       ****Summary: Miscellaneous check, Error(s) = 0, Warning(s) = 41
+[2022/05/17-17:49:52]--
+                       WARNING [PadStack: Out Radius]: : PadStack "Oval[A]Pad_800x1400_um" The outer radius of a via less than 10um may not be realistic.
+                       ****Summary: Variables checks, Error(s) = 0, Warning(s) = 1
+[2022/05/17-17:49:52]--
+                       0 error(s) 42 warning(s) found in SPD file "RaspberryPi.spd"
+                       
+                       

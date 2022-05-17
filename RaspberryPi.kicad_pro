@@ -470,7 +470,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "RaspberryPi.cad",
       "idf": "",
       "netlist": "RaspberryPi.net",
       "specctra_dsn": "RaspberryPi.dsn",
