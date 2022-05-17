@@ -1,4 +1,4 @@
-20183533786885755
+20193450078008447
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63490,6 +63490,13 @@ DFN 1.27
 16
 9
 Package_DFN_QFN
+Diodes_DFN1006-2
+DFN package size 1006 3 pins
+DFN package size 1006 3 pins
+0
+2
+2
+Package_DFN_QFN
 Diodes_DFN1006-3
 DFN package size 1006 3 pins
 DFN package size 1006 3 pins
@@ -85841,6 +85848,13 @@ BGA4N35P2X2_64X64X33
 4
 4
 symbols
+BGA8C100X80P3X3_290X230X100
+
+
+0
+8
+8
+symbols
 BGA96C80P6X16_900X1400X120
 
 
@@ -85848,12 +85862,26 @@ BGA96C80P6X16_900X1400X120
 96
 96
 symbols
+BGA153N50P14X14_1150X1300X80N
+
+
+0
+153
+153
+symbols
 BGA828C65P31X31_2100X2100X161N
 
 
 0
 828
 828
+symbols
+HANRUN_HR911130A
+
+
+0
+16
+16
 symbols
 MOLEX_47352-1001
 
@@ -85868,6 +85896,20 @@ QFN35P700X700X80-69N
 0
 69
 69
+symbols
+QFN40P600X600X100-49N
+
+
+0
+49
+49
+symbols
+QFN50P250X250X80-15N
+
+
+0
+15
+15
 symbols
 SOIC127P600X168-8N
 
